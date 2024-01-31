@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UI
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bullet
+  - Chain
+  - Character
+  - Limits
+  - Bomb
+  - Swords
+  - CharacterSkin
+  - VFX
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Weapon
+    uniqueID: 2883439565
+    locked: 0
+  - name: WeaponEffects
+    uniqueID: 2426651951
+    locked: 0
+  - name: Character
+    uniqueID: 3288173041
+    locked: 0
+  - name: CharacterSkin
+    uniqueID: 639235177
+    locked: 0
+  - name: GlobalEffects
+    uniqueID: 4243286859
+    locked: 0
+  - name: UI
+    uniqueID: 4226861635
+    locked: 0
+  - name: Card
+    uniqueID: 3851592337
+    locked: 0
